@@ -1,0 +1,41 @@
+[1.660s] Invoking command in '/home/jagan/ros2_ws/src/turtlesim_catch_them_all': PYTHONPATH=/home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim_catch_them_all build --build-base /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build install --record /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data
+[1.949s] running egg_info
+[1.949s] creating ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info
+[1.950s] writing ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/PKG-INFO
+[1.951s] writing dependency_links to ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/dependency_links.txt
+[1.952s] writing entry points to ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/entry_points.txt
+[1.952s] writing requirements to ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/requires.txt
+[1.952s] writing top-level names to ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/top_level.txt
+[1.953s] writing manifest file '../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.957s] reading manifest file '../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.959s] writing manifest file '../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info/SOURCES.txt'
+[1.960s] running build
+[1.960s] running build_py
+[1.960s] creating /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build
+[1.961s] creating /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib
+[1.962s] creating /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.962s] copying turtlesim_catch_them_all/turtle_spawner.py -> /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.964s] copying turtlesim_catch_them_all/__init__.py -> /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.965s] copying turtlesim_catch_them_all/turtle_controller.py -> /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all
+[1.966s] running install
+[1.967s] running install_lib
+[1.968s] creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.968s] copying /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_spawner.py -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.969s] copying /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/__init__.py -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.969s] copying /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build/lib/turtlesim_catch_them_all/turtle_controller.py -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all
+[1.971s] byte-compiling /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+[1.972s] byte-compiling /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/__init__.py to __init__.cpython-310.pyc
+[1.972s] byte-compiling /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all/turtle_controller.py to turtle_controller.cpython-310.pyc
+[1.973s] running install_data
+[1.974s] creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index
+[1.974s] creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index
+[1.976s] creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[1.976s] copying resource/turtlesim_catch_them_all -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+[1.976s] copying package.xml -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
+[1.977s] running install_egg_info
+[1.980s] Copying ../build/turtlesim_catch_them_all/turtlesim_catch_them_all.egg-info to /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim_catch_them_all-0.0.0-py3.10.egg-info
+[1.983s] running install_scripts
+[2.016s] Installing Controller script to /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.016s] Installing spawner script to /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+[2.017s] writing list of installed files to '/home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/install.log'
+[2.097s] Invoked command in '/home/jagan/ros2_ws/src/turtlesim_catch_them_all' returned '0': PYTHONPATH=/home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim_catch_them_all build --build-base /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/build install --record /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/install.log --single-version-externally-managed install_data

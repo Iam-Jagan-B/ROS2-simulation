@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating turtlesim_catch_them_all.egg-info
+writing turtlesim_catch_them_all.egg-info/PKG-INFO
+writing dependency_links to turtlesim_catch_them_all.egg-info/dependency_links.txt
+writing entry points to turtlesim_catch_them_all.egg-info/entry_points.txt
+writing requirements to turtlesim_catch_them_all.egg-info/requires.txt
+writing top-level names to turtlesim_catch_them_all.egg-info/top_level.txt
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+reading manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_catch_them_all.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/python3.10/site-packages/turtlesim-catch-them-all.egg-link (link to .)
+Installing Controller script to /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/lib/turtlesim_catch_them_all
+
+Installed /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all
+running symlink_data
+creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index
+creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index
+creating /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/resource/turtlesim_catch_them_all -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/ament_index/resource_index/packages
+symbolically linking /home/jagan/ros2_ws/src/build/turtlesim_catch_them_all/package.xml -> /home/jagan/ros2_ws/src/install/turtlesim_catch_them_all/share/turtlesim_catch_them_all
